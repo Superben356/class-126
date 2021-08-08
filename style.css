@@ -1,0 +1,35 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed_div
+{
+    float: left;
+}
+
+.speed_img,.volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed,#volume
+{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.volume_div
+{
+    float: right;
+}
